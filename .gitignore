@@ -33,3 +33,6 @@ JuliaLocalPreferences.toml
 
 # data
 data/*
+
+# Mac
+.DS_Store
